@@ -3,15 +3,7 @@
 import UIKit
 
 struct Colors {
-    let red = UIColor.red
-    let black = UIColor.black
-    let darkGray = UIColor.darkGray
-    let gray = UIColor.gray
-    let lightGray = UIColor.lightGray
-    let white = UIColor.white
-    let green = UIColor.green
-    let blue = UIColor.blue
-    let cyan = UIColor.cyan
-    let yellow = UIColor.yellow
-    let brown = UIColor.brown
+    let green = UIColor(red: 203/255, green: 245/255, blue: 225/255, alpha: 1.0)
+    let blue = UIColor(red: 218/255, green: 239/255, blue: 242/255, alpha: 1.0)
+    let bluePurple = UIColor(red: 130/255, green: 137/255, blue: 176/255, alpha: 1.0)
 }
